@@ -9,13 +9,15 @@
 <br />
 
 ### 👩‍💻 whoami
+
+
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 Hi, I'm [Hariom Chaturvedi](https://hariomch.netlify.app), a passionate self-taught ethical hacker and pentester from India. I love to know how stuff works internally and enjoy tweaking it in order to learn more.
 Apart from Information Security and hacking, I have worked with Python, Bash, JavaScript, React Native, Java over time.
 
 I am also a competitive programmer. Participating in programming contests has improved my problem-solving skills and also sharpen my data structures and algorithms in a fun competitive way.
 
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
 - 📫 Reach me on: [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/hariom-chaturvedi/)
 - 📝 My Blog Page on [<img src="https://img.shields.io/badge/Medium%20-%231572B6.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://www.hariom4694.medium.com/)
@@ -44,4 +46,8 @@ I am also a competitive programmer. Participating in programming contests has im
 
 📈 My GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=hariomch&theme=radical" alt="hariomch" />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=hariomch&theme=radical" alt="hariomch" />
+
+
+
+
