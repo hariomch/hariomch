@@ -20,8 +20,8 @@ I am also a competitive programmer. Participating in programming contests has im
 
   
 - 📫 Reach me on: [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/hariom-chaturvedi/)
-- 📝 My Blog Page on [<img src="https://img.shields.io/badge/Medium%20-%231572B6.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://www.hariom4694.medium.com/)
-- 👩‍💻 Also check [this](https://www.hariomch.netlify.app).
+- 📝 My Blog Page on [<img src="https://img.shields.io/badge/Medium%20-%231572B6.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://hariom4694.medium.com/)
+- 👩‍💻 Also check [this](https://hariomch.netlify.app/).
 
 **Languages and Tools:**  
 
