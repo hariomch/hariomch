@@ -11,7 +11,7 @@
 ### 👩‍💻 whoami
 
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="./code.gif" width="500" height="320" />
   
 Hi, I'm [Hariom Chaturvedi](https://hariomch.netlify.app), a passionate self-taught ethical hacker and pentester from India. I love to know how stuff works internally and enjoy tweaking it in order to learn more.
 Apart from Information Security and hacking, I have worked with Python, Bash, JavaScript, React Native, Java over time.
