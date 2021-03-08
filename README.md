@@ -33,13 +33,17 @@ I am also a competitive programmer. Participating in programming contests has im
 ![javascript](https://img.shields.io/badge/javascript-lightgrey?labelColor=F7DF1E&logo=JavaScript&style=for-the-badge&logoColor=black)
 &nbsp;<img src="https://img.shields.io/badge/react%20-%2300D9FF.svg?&style=for-the-badge&logo=react&logoColor=white" />
 &nbsp;<img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/static/v1?style=for-the-badge&message=Docker&color=2496ED&logo=Docker&logoColor=FFFFFF&label=" />
+<img src="https://img.shields.io/static/v1?style=for-the-badge&message=Netlify&color=222222&logo=Netlify&logoColor=00C7B7&label=" />
+<img src="https://img.shields.io/badge/-Github%20Actions-2088FF?style=for-the-badge&logo=Github-Actions&logoColor=white" />
 <img src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/>
 <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
 
-<!-- 
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch)
-![Logstash](https://img.shields.io/badge/Logstash-005571?style=flat-square&logo=logstash)
-![Kibana](https://img.shields.io/badge/Kibana-005571?style=flat-square&logo=kibana) -->
+
+**Currently I am working on**  
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch)
+![Logstash](https://img.shields.io/badge/Logstash-005571?style=for-the-badge&logo=logstash)
+![Kibana](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana)
 
 
 
@@ -48,7 +52,3 @@ I am also a competitive programmer. Participating in programming contests has im
 📈 My GitHub Stats
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=hariomch&theme=radical" alt="hariomch" />
-
-
-
-
