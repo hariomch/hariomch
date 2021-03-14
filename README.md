@@ -52,4 +52,4 @@ I am also a competitive programmer. Participating in programming contests has im
 📈 My GitHub Stats
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=hariomch&theme=radical" alt="hariomch" />
-<!-- <img   alt="Sparsh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SparshKesari&langs_count=6&layout=compact&theme=vue-dark&hide_border=true&bg_color=0D1117" /> -->
+<!-- <img   alt="Sparsh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hariomch&langs_count=6&layout=compact&theme=vue-dark&hide_border=true&bg_color=0D1117" /> -->
