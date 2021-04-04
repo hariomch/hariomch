@@ -13,7 +13,7 @@
 
   <img align="right" alt="GIF" src="./code.gif" width="500" height="320" />
   
-Hi, I'm [Hariom Chaturvedi](https://hariomch.netlify.app), a passionate self-taught ethical hacker and pentester from India. I love to know how stuff works internally and enjoy tweaking it in order to learn more.
+Hi, I'm [Hariom Chaturvedi](https://findhariom.tech), a passionate self-taught ethical hacker and pentester from India. I love to know how stuff works internally and enjoy tweaking it in order to learn more.
 Apart from Information Security and hacking, I have worked with Python, Bash, JavaScript, React Native, Java over time.
 
 I am also a competitive programmer. Participating in programming contests has improved my problem-solving skills and also sharpen my data structures and algorithms in a fun competitive way.
@@ -22,7 +22,7 @@ I am also a competitive programmer. Participating in programming contests has im
   
 - 📫 Reach me on: [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/hariom-chaturvedi/)
 - 📝 My Blog Page on [<img src="https://img.shields.io/badge/Medium%20-%231572B6.svg?&style=flat&logo=medium&logoColor=white" />](https://hariom4694.medium.com/)
-- 👩‍💻 Also check [this](https://hariomch.netlify.app/).
+#- 👩‍💻 Also check [this](https://findhariom.tech/).
 
 **Languages and Tools:**  
 
@@ -52,4 +52,4 @@ I am also a competitive programmer. Participating in programming contests has im
 📈 My GitHub Stats
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=hariomch&theme=radical" alt="hariomch" />
-<!-- <img   alt="Sparsh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hariomch&langs_count=6&layout=compact&theme=vue-dark&hide_border=true&bg_color=0D1117" /> -->
+<img   alt="Sparsh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hariomch&langs_count=6&layout=compact&theme=vue-dark&hide_border=true&bg_color=0D1117" />
